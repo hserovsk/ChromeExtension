@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 10px;
+    min-width: 400px;
 }
 
 input {
@@ -19,5 +20,20 @@ button {
     font-weight: bold;
     margin-bottom: 4px;
 
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0px;
+
+}
+
+li {
+    margin-top: 5px;
+}
+
+li a {
+    color: #5f9341;
 
 }
