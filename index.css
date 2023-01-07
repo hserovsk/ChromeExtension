@@ -16,7 +16,16 @@ button {
     background: green;
     color: white;
     padding: 10px 20px;
-    border: none;
+    border: 1px solid;
+    font-weight: bold;
+    margin-bottom: 4px;
+
+}
+#delete-btn {
+    background: white;
+    color: green;
+    padding: 10px 20px;
+    border: 1px solid green;
     font-weight: bold;
     margin-bottom: 4px;
 
@@ -25,7 +34,7 @@ button {
 ul {
     margin-top: 20px;
     list-style: none;
-    padding-left: 0px;
+    padding-left: 0;
 
 }
 
